@@ -14,5 +14,8 @@ class Konsumen(object):
     def pembayaran(self):
         pass
 
+    def cetak_laporan(self):
+        pass
+
     def cek_pemesanan(self):
         pass
