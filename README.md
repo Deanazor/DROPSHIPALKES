@@ -1,9 +1,9 @@
 # Disusun oleh :
-Farhan Renaldi (18/430261/PA/18774)
-Arief Pujo Arianto (18/430253/PA/18766)
-Atha Layana Hibatullah (18/430255/PA/18768)
-Rieza Ferdiansyah (18/424197/PA/18302)
-Viga Laksa Hardjanto (18/424199/PA/18304)
+<p>Farhan Renaldi (18/430261/PA/18774)</p>
+<p>Arief Pujo Arianto (18/430253/PA/18766)</p>
+<p>Atha Layana Hibatullah (18/430255/PA/18768)</p>
+<p>Rieza Ferdiansyah (18/424197/PA/18302)</p>
+<p>Viga Laksa Hardjanto (18/424199/PA/18304)</p>
 
 # DROPSHIPALKES
 
